@@ -1,22 +1,23 @@
 {
   "files": {
-    "main.css": "/spodify-jersey-edition/static/css/main.db301dc7.chunk.css",
-    "main.js": "/spodify-jersey-edition/static/js/main.97233e07.chunk.js",
-    "main.js.map": "/spodify-jersey-edition/static/js/main.97233e07.chunk.js.map",
+    "main.css": "/spodify-jersey-edition/static/css/main.f6c7acb9.chunk.css",
+    "main.js": "/spodify-jersey-edition/static/js/main.48c1205b.chunk.js",
+    "main.js.map": "/spodify-jersey-edition/static/js/main.48c1205b.chunk.js.map",
     "runtime-main.js": "/spodify-jersey-edition/static/js/runtime-main.c1516829.js",
     "runtime-main.js.map": "/spodify-jersey-edition/static/js/runtime-main.c1516829.js.map",
     "static/js/2.607c668e.chunk.js": "/spodify-jersey-edition/static/js/2.607c668e.chunk.js",
     "static/js/2.607c668e.chunk.js.map": "/spodify-jersey-edition/static/js/2.607c668e.chunk.js.map",
     "index.html": "/spodify-jersey-edition/index.html",
-    "static/css/main.db301dc7.chunk.css.map": "/spodify-jersey-edition/static/css/main.db301dc7.chunk.css.map",
+    "static/css/main.f6c7acb9.chunk.css.map": "/spodify-jersey-edition/static/css/main.f6c7acb9.chunk.css.map",
     "static/js/2.607c668e.chunk.js.LICENSE.txt": "/spodify-jersey-edition/static/js/2.607c668e.chunk.js.LICENSE.txt",
     "static/media/ban.7c824666.svg": "/spodify-jersey-edition/static/media/ban.7c824666.svg",
+    "static/media/cart.3e5689b7.svg": "/spodify-jersey-edition/static/media/cart.3e5689b7.svg",
     "static/media/favicon.6f89bff5.jpg": "/spodify-jersey-edition/static/media/favicon.6f89bff5.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.c1516829.js",
     "static/js/2.607c668e.chunk.js",
-    "static/css/main.db301dc7.chunk.css",
-    "static/js/main.97233e07.chunk.js"
+    "static/css/main.f6c7acb9.chunk.css",
+    "static/js/main.48c1205b.chunk.js"
   ]
 }
