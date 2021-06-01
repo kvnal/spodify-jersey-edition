@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/spodify-jersey-edition/static/css/main.21118fd9.chunk.css",
-    "main.js": "/spodify-jersey-edition/static/js/main.f1ec59c4.chunk.js",
-    "main.js.map": "/spodify-jersey-edition/static/js/main.f1ec59c4.chunk.js.map",
+    "main.css": "/spodify-jersey-edition/static/css/main.02798af7.chunk.css",
+    "main.js": "/spodify-jersey-edition/static/js/main.2e4c68b3.chunk.js",
+    "main.js.map": "/spodify-jersey-edition/static/js/main.2e4c68b3.chunk.js.map",
     "runtime-main.js": "/spodify-jersey-edition/static/js/runtime-main.c1516829.js",
     "runtime-main.js.map": "/spodify-jersey-edition/static/js/runtime-main.c1516829.js.map",
     "static/js/2.26a441d0.chunk.js": "/spodify-jersey-edition/static/js/2.26a441d0.chunk.js",
     "static/js/2.26a441d0.chunk.js.map": "/spodify-jersey-edition/static/js/2.26a441d0.chunk.js.map",
     "index.html": "/spodify-jersey-edition/index.html",
-    "static/css/main.21118fd9.chunk.css.map": "/spodify-jersey-edition/static/css/main.21118fd9.chunk.css.map",
+    "static/css/main.02798af7.chunk.css.map": "/spodify-jersey-edition/static/css/main.02798af7.chunk.css.map",
     "static/js/2.26a441d0.chunk.js.LICENSE.txt": "/spodify-jersey-edition/static/js/2.26a441d0.chunk.js.LICENSE.txt",
     "static/media/ban.7c824666.svg": "/spodify-jersey-edition/static/media/ban.7c824666.svg",
     "static/media/cart.3e5689b7.svg": "/spodify-jersey-edition/static/media/cart.3e5689b7.svg",
@@ -17,7 +17,7 @@
   "entrypoints": [
     "static/js/runtime-main.c1516829.js",
     "static/js/2.26a441d0.chunk.js",
-    "static/css/main.21118fd9.chunk.css",
-    "static/js/main.f1ec59c4.chunk.js"
+    "static/css/main.02798af7.chunk.css",
+    "static/js/main.2e4c68b3.chunk.js"
   ]
 }
